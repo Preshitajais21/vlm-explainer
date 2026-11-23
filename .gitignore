@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+*.conda
+.ipynb_checkpoints/
+
+# Streamlit local state
+.streamlit/
+
+# Generated outputs
+outputs/
+exports/
+artifacts/
+*.mp4
+*.gif
+*.log
+
+# Local model/cache artifacts
+models_cache/
+.cache/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Keep committed media assets available for the README
+!media/
+!media/**
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temp
+tmp/
+temp/
