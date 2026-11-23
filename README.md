@@ -117,6 +117,3 @@ Upload a JPG or PNG image, select a generated caption token, inspect BLIP Grad-C
 - Save explanation reports with original image, selected token, heatmap, mask, and regenerated caption.
 - Add quantitative perturbation metrics across multiple images and tokens.
 
-## Team
-
-This project was completed as an individual assignment for an NLP graduate course. Classmates Jay Polra and Sushmitha Guraja contributed input in some areas.
